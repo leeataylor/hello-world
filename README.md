@@ -1,3 +1,3 @@
 # hello-world
-a short description
+a longer description
 I am therefore I think.
